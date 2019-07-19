@@ -7,7 +7,9 @@
 #示例项目使用用法：
   ##1 打包本项目形成一个jar包
   ##2 在另外一个项目中使用：
+  
         *a 引入step1中的jar
+        
         *b 代码中引入并使用
 ```javascript
 @Autowired
